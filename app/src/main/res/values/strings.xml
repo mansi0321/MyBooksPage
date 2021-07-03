@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyBooks</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="button5">Button</string>
+    <string name="button6">Button</string>
+    <string name="button7">Button</string>
+    <string name="button8">Button</string>
+    <string name="button9">Button</string>
+    <string name="button10">Button</string>
+    <string name="button11">Button</string>
+    <string name="arrow">arrow</string>
+</resources>
